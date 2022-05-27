@@ -1,3 +1,5 @@
+# This Repository is Archived
+Use [Banane9's fork](https://github.com/Banane9/NeosNoEscape) instead, it's a direct upgrade over this feature-wise.
 # NoEscape
 
 A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) that disables the emergency respawn gesture.
